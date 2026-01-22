@@ -1,0 +1,63 @@
+ 𝗜 𝗽𝗮𝘀𝘀𝗲𝗱 𝘁𝗵𝗲 𝗔𝗪𝗦 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁 – 𝗔𝘀𝘀𝗼𝗰𝗶𝗮𝘁𝗲 𝗲𝘅𝗮𝗺 𝗼𝗻 𝗺𝘆 𝗳𝗶𝗿𝘀𝘁 𝗮𝘁𝘁𝗲𝗺𝗽𝘁 — 𝗮𝗻𝗱 𝗵𝗲𝗿𝗲’𝘀 𝘁𝗵𝗲 𝟰-𝘄𝗲𝗲𝗸 𝘀𝘁𝘂𝗱𝘆 𝗽𝗹𝗮𝗻 𝗜 𝗳𝗼𝗹𝗹𝗼𝘄𝗲𝗱 𝘁𝗵𝗮𝘁 𝗺𝗶𝗴𝗵𝘁 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝘁𝗼𝗼:
+
+📚 𝗖𝗼𝗿𝗲 𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹𝘀
+
+Video Course: Stéphane Maarek (Udemy)
+
+Hands-on Labs: KodeKloud AWS Labs- 
+
+Practice Exams: hashtag#TutorialsDojo (Jon Bonso) + Maarek’s tests
+
+🗓 𝗪𝗲𝗲𝗸 𝟭: 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻 & 𝗖𝗼𝗿𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀
+🎯 Goal: Build AWS fundamentals + start hands-on
+
+IAM, EC2, S3, EBS, EFS, CloudFront, Route 53 basics
+
+Labs: IAM users, EC2 launch, S3 buckets & lifecycle
+
+Task: Draw a simple architecture (EC2 → ALB → S3 → RDS)
+
+🗓  𝗪𝗲𝗲𝗸 𝟮: 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴 & 𝗛𝗶𝗴𝗵 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗶𝗹𝗶𝘁𝘆
+🎯 Goal: Resilient + networked designs
+
+VPC, Subnets, NAT, Security Groups, RDS, DynamoDB
+
+Labs: VPC + NAT Gateway, RDS in private subnet, Bastion host
+
+Task: Multi-AZ vs Read Replicas
+
+🗓  𝗪𝗲𝗲𝗸 𝟯: 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆, 𝗠𝗼𝗻𝗶𝘁𝗼𝗿𝗶𝗻𝗴 & 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
+🎯 Goal: Security, cost, and visibility
+
+CloudWatch, CloudTrail, KMS, Cognito, Lambda, Beanstalk
+
+Labs: IAM roles, KMS encryption, Lambda + API Gateway
+
+Task: Compare EC2 pricing models
+
+🗓  𝗪𝗲𝗲𝗸 𝟰: 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲 & 𝗙𝗶𝗻𝗮𝗹 𝗣𝗿𝗲𝗽
+🎯 Goal: Simulate exam conditions
+
+Full practice exams (Bonso / Maarek)
+
+Review all wrong answers
+
+Review S3 storage classes, DR strategies, Route 53 policies
+
+✅  𝗘𝘅𝗮𝗺 𝗗𝗮𝘆 𝗧𝗶𝗽𝘀
+
+Eliminate 2 wrong answers first
+
+Managed services are usually the right choice
+
+“Resilient” = Multi-AZ | “Cost-Optimized” = Spot/Reserved | “Secure” = IAM/KMS
+
+Flag & revisit tricky questions
+
+👉 This combo worked for me:
+
+𝗠𝗮𝗮𝗿𝗲𝗸 = 𝘁𝗵𝗲𝗼𝗿𝘆
+𝗞𝗼𝗱𝗲𝗞𝗹𝗼𝘂𝗱 = 𝗵𝗮𝗻𝗱𝘀-𝗼𝗻
+𝗧𝘂𝘁𝗼𝗿𝗶𝗮𝗹𝘀 𝗗𝗼𝗷𝗼 + 𝗠𝗮𝗮𝗿𝗲𝗸'𝘀 𝘁𝗲𝘀𝘁𝘀 = 𝗿𝗲𝗮𝗱𝗶𝗻𝗲𝘀𝘀
+
+Hope this helps anyone preparing for the exam — you’ve got this! 💪
