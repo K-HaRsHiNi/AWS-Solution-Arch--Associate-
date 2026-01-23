@@ -1,0 +1,49 @@
+Solutions Architect Python Scripting Checklist
+
+
+
+Module 1: Foundations (The Logic)
+          [ ] Setup: VS Code installation + Python 3.12 interpreter.
+          
+          [ ] Variables: Strings (text), Integers (numbers), Booleans (True/False).
+          
+          [ ] Collections: Dictionaries (Key-Value pairs) and Lists. (Critical for Cloud Data).
+          
+          [ ] Logic: if, elif, else for system decision-making.
+          
+          [ ] Loops: for loops to iterate over lists of resources (e.g., a list of 50 servers).
+          
+          [ ] Functions: Using def to create reusable automation blocks.
+          
+          [ ] Error Handling: try...except blocks to prevent script crashes during demos.
+
+Module 2: The "Integration" Toolbox
+          [ ] JSON Processing: Using the json library to parse API responses.
+          
+          [ ] API Requests: Using the requests library (GET, POST, PUT, DELETE).
+          
+          [ ] Environment Variables: Using .env files to hide API keys and Secrets.
+          
+          [ ] File Handling: Reading/Writing CSV and Excel files for data migration PoCs.
+          
+          [ ] Virtual Environments: Using venv to isolate project dependencies.
+
+Module 3: AWS Automation (Boto3)
+          [ ] Boto3 Sessions: Establishing a secure connection to your AWS account.
+          
+          [ ] S3 Automation: Scripting bucket creation and multi-file uploads.
+          
+          [ ] EC2 Control: Scripts to start/stop/reboot instances based on tags.
+          
+          [ ] Lambda Handlers: Converting local scripts into "Serverless" cloud functions.
+          
+          [ ] IAM Management: Automating the rotation of access keys or checking permissions.
+
+Module 4: Advanced Architect Skills
+          [ ] Data Manipulation: Basics of Pandas (Cleaning data for client presentations).
+          
+          [ ] AI & LLMs: Using Python to call OpenAI or AWS Bedrock APIs.
+          
+          [ ] Infrastructure Integration: Triggering Terraform or CloudFormation via Python.
+          
+          [ ] Security Scripting: Writing "Auditor" scripts to find unencrypted storage or public buckets.
